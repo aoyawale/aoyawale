@@ -1,7 +1,7 @@
 ### Hi there 👋
+![](https://en.wikipedia.org/wiki/Flag_of_Puerto_Rico#/media/File:Flag_of_Puerto_Rico_(1895-1952).svg)
 
-<!--
-**aoyawale/aoyawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aoyawale/aoyawale** is a ✨ _special_ ✨ repository 
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
