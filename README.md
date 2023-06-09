@@ -41,7 +41,6 @@ Apps:
   <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoyawale&layout=compact&langs_count=10&theme=dark" />
 </p>
 
-[!Aoyawale GitHub stats](https://github-readme-stats.vercel.app/api?username=maoyawale&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true)](https://github.com/aoyawale)
 
 
 
