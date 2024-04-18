@@ -25,6 +25,11 @@ Languages:
 Operating Systems:
 <p align="left">
   <img alt="Fedora" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" />
+  <img alt="Archlinux" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" />
+  <img alt="Arduino" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" />
+  
+  
+
 </p>
 
 Apps:
