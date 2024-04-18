@@ -19,7 +19,7 @@ Languages:
 <p align="left">
   <img alt="C#" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt="C++" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Python" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Python" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
 </p>
 
 Operating Systems:
@@ -27,6 +27,9 @@ Operating Systems:
   <img alt="Fedora" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" />
   <img alt="Archlinux" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" />
   <img alt="Arduino" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" />
+  <img alt="Raspberry" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" />
+  <img alt="Ubuntu" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" />
+  
   
   
 
@@ -34,9 +37,13 @@ Operating Systems:
 
 Apps:
 <p align="left">
-  <img alt="Podman" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" />
-  <img alt="Ansible" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" />
+  <img alt="Podman" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original-wordmark.svg" />
+  <img alt="Ansible" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" />
   <img alt="Jetbrains IDEs" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
+  <img alt="Elasticsearch" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" />
+  <img alt="Kubernetes" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-line-wordmark.svg" />
+  <img alt="Pfsense" width="48px" height="48px" src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original-wordmark.svg" />
+  
 </p>
 
 ---
