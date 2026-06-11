@@ -1,8 +1,8 @@
-### Hola! My name is Adebisi Oyawale
+### Hola! 
 ![](https://en.wikipedia.org/wiki/Flag_of_Puerto_Rico#/media/File:Flag_of_Puerto_Rico.svg)
 
 ### introduction
-
+- 👋 My Name is Adebisi Oyawale.
 - 🔭 I’m currently working on Automation, IoT and Electrical Engineering.
 - 🌱 I’m currently learning Electrical Engineering, Mathematics, Physics and anything cool!
 - 👯 I’m looking to collaborate on open source software.
